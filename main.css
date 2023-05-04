@@ -1,0 +1,39 @@
+.ycolor{
+    width: 300px;
+    height: 40px;
+    background-color: green;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.task{
+    width: 100px;
+    height: 40px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 90px;
+}
+.a1{
+    width: 180px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.b1{
+    margin: 20px 90px ;
+    width: 100px;
+    height: 30px;
+    border: 1px solid green;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    background-color: green;
+}
+.div1{
+    margin-left: 500px;
+    margin-top: 200px;
+    width: 300px;
+    height: 250px;
+    border: 2px solid green;
+    border-radius: 20px;
+}
